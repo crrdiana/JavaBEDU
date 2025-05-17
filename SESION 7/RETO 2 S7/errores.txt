@@ -1,0 +1,5 @@
+ERROR: La conexión con la base de datos falló.
+WARNING: El servidor está respondiendo lentamente.
+INFO: El sistema está funcionando correctamente.
+ERROR: No se pudo encontrar el archivo solicitado.
+WARNING: El archivo se ha cargado parcialmente.
